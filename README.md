@@ -2,7 +2,7 @@
 **Educator turned Data Analyst | SQL | MS Excel | Python | Power BI | Tableau**
 
 - 🔭 **I’m currently working on:** Building analytics projects in **Power BI** & **Python**  
-- 🌱 **I’m currently learning:** **DAX**, ** advanced **SQL** techniques  
+- 🌱 **I’m currently learning:** **DAX**, advanced **SQL** techniques  
 - 👯 **I’m looking to collaborate on:** Data analysis projects, dashboards, and storytelling with data  
 - 🤔 **I’m looking for help with:** Exploring real-world **ETL** and **cloud data workflows**  
 - 📫 **How to reach me:** [mamatamanjaris25@gmail.com]  
