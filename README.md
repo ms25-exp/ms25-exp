@@ -14,7 +14,9 @@ Data analyst in the making — blending SQL, Python, and BI tools to turn raw da
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rinky_sahoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-manjari-data-analyst) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rinkycutypie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manjari_sa82586) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatamanjaris25@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-manjari-data-analyst) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manjari_sa82586) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatamanjaris25@gmail.com)
 
 <!-- Snake Game Repo View -->
 
